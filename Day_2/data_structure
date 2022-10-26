@@ -1,0 +1,11 @@
+            Data Structure Types
+Primitive                   Non Primitive
+int,boolean,          Linear    Non-Linear  
+float,sting            List         Linked
+                list is collection
+                array [] only values 
+                        Tupple ()     Graph 
+                        Set         Tree
+                        Dict{}
+                        has keys
+                        and value
